@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pre-Anesthesiologist Assistant Club | MTSU</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f7f9fb;
+      color: #1f2933;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #003a8f;
+      color: white;
+      padding: 2.5rem 1.5rem;
+      text-align: center;
+    }
+    header h1 {
+      margin-bottom: 0.5rem;
+      font-size: 2.2rem;
+    }
+    header p {
+      max-width: 700px;
+      margin: 0 auto;
+      font-size: 1.1rem;
+    }
+    nav {
+      background-color: #ffffff;
+      border-bottom: 1px solid #e5e7eb;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      padding: 1rem;
+    }
+    nav a {
+      text-decoration: none;
+      color: #003a8f;
+      font-weight: 600;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 3rem 1.5rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    section h2 {
+      color: #003a8f;
+      margin-bottom: 1rem;
+    }
+    .card {
+      background-color: white;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+      margin-bottom: 2rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      background-color: #003a8f;
+      color: white;
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.9rem;
+    }
+    .cta {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.7rem 1.5rem;
+      background-color: #003a8f;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .cta:hover {
+      background-color: #002d6e;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Pre-Anesthesiologist Assistant Club</h1>
+  <p>Middle Tennessee State University</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#purpose">Purpose</a>
+  <a href="#activities">Activities</a>
+  <a href="#membership">Membership</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <div class="card">
+    <h2>About the Club</h2>
+    <p>
+      The Pre-Anesthesiologist Assistant Club is a student-led organization at Middle Tennessee State University that supports undergraduate students interested in pursuing careers as anesthesiologist assistants. The club provides a collaborative environment focused on academic excellence, professional development, and career preparation.
+    </p>
+  </div>
+</section>
+
+<section id="purpose">
+  <div class="card">
+    <h2>Our Purpose</h2>
+    <p>
+      The purpose of the Pre-Anesthesiologist Assistant Club is to provide students with educational, professional, and networking opportunities that support preparation for careers as anesthesiologist assistants, promote academic excellence, and foster mentorship, collaboration, and service within the healthcare community.
+    </p>
+  </div>
+</section>
+
+<section id="activities">
+  <div class="card">
+    <h2>Club Activities</h2>
+    <ul>
+      <li>Guest speakers from anesthesia and healthcare professions</li>
+      <li>Graduate school and application preparation workshops</li>
+      <li>Networking opportunities with professionals and programs</li>
+      <li>Academic and peer mentorship</li>
+      <li>Community service and healthcare-related outreach</li>
+    </ul>
+  </div>
+</section>
+
+<section id="membership">
+  <div class="card">
+    <h2>Membership</h2>
+    <p>
+      Membership is open to all MTSU students interested in learning more about the anesthesiologist assistant profession or preparing for graduate-level anesthesia programs. No prior experience is required.
+    </p>
+    <a href="#contact" class="cta">Join the Club</a>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="card">
+    <h2>Contact Us</h2>
+    <p>
+      For more information about meetings, membership, or upcoming events, please contact the club officers or visit us during scheduled meetings.
+    </p>
+    <p><strong>Email:</strong> preaa@mtsu.edu</p>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2026 Pre-Anesthesiologist Assistant Club | Middle Tennessee State University</p>
+</footer>
+
+</body>
+</html>
